@@ -1,0 +1,2 @@
+- [Design System](design-system.md) — Tailwind-based design with Inter font, blue primary, gray-50 background, white cards with borders
+- [Card Pattern](card-pattern.md) — All cards use unified styling: `bg-white rounded-xl p-6 shadow-sm border border-gray-100`
